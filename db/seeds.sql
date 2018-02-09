@@ -1,0 +1,1 @@
+INSERT INTO burgers(burger_name, devoured) VALUES ('jamon', FALSE),('queso', FALSE), ('Nada', FALSE), ('sason', FALSE), ('Stttttina', FALSE), ('feeefita', FALSE)
